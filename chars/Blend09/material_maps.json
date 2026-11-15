@@ -27,26 +27,10 @@
   "extra.png": {
     "normal": "maps/extra_n.png"
   },
-  "c_AsteriaSSR0101_slg_P1_cloth1_d.png": {
-    "normal": "maps/c_AsteriaSSR0101_slg_P1_cloth1_d_n.png"
-  },
-  "c_AsteriaSSR0101_slg_P1_body1_da.png": {
-    "normal": "maps/c_AsteriaSSR0101_slg_P1_body1_da_n.png"
-  },
-  "c_AsteriaSSR0101_slg_P1_body2_d.png": {
-    "normal": "maps/c_AsteriaSSR0101_slg_P1_body2_d_n.png"
-  },
   "c_AsteriaSSR0101_slg_cloth4_rmo.png": {
     "normal": "maps/c_AsteriaSSR0101_slg_cloth4_rmo_n.png"
   },
   "c_AsteriaSSR0101_slg_cloth2_d.png": {
     "normal": "maps/c_AsteriaSSR0101_slg_cloth2_d_n.png"
-  },
-  "stockingMode": "alpha",
-  "stockingSkinTexture": "socks_skin_d.png",
-  "materialOverrides": {
-    "Socks": {
-      "diffuse": "socks_d.png"
-    }
   }
 }

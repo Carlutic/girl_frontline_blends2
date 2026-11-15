@@ -26,11 +26,5 @@
   },
   "extra.png": {
     "normal": "maps/extra_n.png"
-  },
-  "c_MacqiatoSSR0103_slg_P1_head_d.png": {
-    "normal": "maps/c_MacqiatoSSR0103_slg_P1_head_d_n.png"
-  },
-  "c_MacqiatoSSR0103_slg_P1_cloth_d.png": {
-    "normal": "maps/c_MacqiatoSSR0103_slg_P1_cloth_d_n.png"
   }
 }
