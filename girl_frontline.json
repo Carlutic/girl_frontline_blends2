@@ -1,0 +1,44 @@
+[
+ {
+  "id": 82008,
+  "name": "Blend04_2511122",
+  "displayName": "樱花 - 蝶影绮谭",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Blend04_2511122",
+  "image": "Covers/Blend04_2511122.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_blends2/"
+ },
+ {
+  "id": 82009,
+  "name": "Blend05",
+  "displayName": "玛绮朵 - 汤风休日",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Blend05",
+  "image": "Covers/Blend05.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_blends2/"
+ },
+ {
+  "id": 82010,
+  "name": "Blend09",
+  "displayName": "阿斯缇亚 - 冬夜星途",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Blend09",
+  "image": "Covers/Blend09.png",
+  "pmx": "model.pmx",
+  "base": "https://carlutic.github.io/girl_frontline_blends2/"
+ }
+]
